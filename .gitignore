@@ -1,9 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+.DS_Store
 
 # C extensions
 *.so
+
+# secrets
+secrets.yml
 
 # Distribution / packaging
 .Python
